@@ -20,6 +20,6 @@
 
 
 <h2>My Personal Experience:</h2>
-This course is a culmination of the fundamental components of detecting and responding to threats and using these core concepts to build your understanding of more complex topics within the cybersecurity field. Some of my favorite tools from this course included Yara, Splunk, Volatility, and Autopsy.
+This course is a culmination of the fundamental components of detecting and responding to threats and using these core concepts to build your understanding of more complex topics within the cybersecurity field. I thoroughly enjoyed learning more about the blue team side of the industry and hope to learn more in the future. My favorite tools from this course included Yara, Splunk, Volatility, and Autopsy.
 <h2>Cyber Defense Certificate:</h2>
 <img src="https://i.imgur.com/ASDoRCO.png" alt="certification"/>
